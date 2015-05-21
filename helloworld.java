@@ -20,6 +20,11 @@ public class person{
 	}
 	
 	
+	public void setName(String ln)
+	{
+		this.lastName = ln;
+	}
+	
 	}
 
 	
